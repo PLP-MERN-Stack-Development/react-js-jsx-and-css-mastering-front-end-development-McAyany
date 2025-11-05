@@ -14,7 +14,7 @@ The app includes a **Task Manager**, **API Integration Page**, and other reusabl
 ---
 
 ## 🌍 Live Demo
-👉 **[View Deployment on GitHub Pages](https://<your-github-username>.github.io/<your-repo-name>/)**  
+👉 **[View Deployment on GitHub Pages](https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-McAyany/)**  
 
 
 ---
