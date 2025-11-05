@@ -41,10 +41,9 @@ The app includes a **Task Manager**, **API Integration Page**, and other reusabl
    npm create vite@latest my-react-app -- --template react
    cd my-react-app
    npm install
-````
-
+    ````
+###
 2. Install Tailwind CSS:
-
    ```bash
    npm install tailwindcss @tailwindcss/vite
    ```
