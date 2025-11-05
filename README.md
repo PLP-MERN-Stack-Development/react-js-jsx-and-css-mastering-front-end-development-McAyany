@@ -1,5 +1,3 @@
-
-````markdown
 # ⚛️ React + Vite + Tailwind CSS Assignment
 
 ## 📖 Overview
