@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Button from './Button';
+import useLocalStorage from '../hooks/useLocalStorage';
+import {useTheme} from '../context/ThemeContext';
 
 /**
  * Custom hook for managing tasks with localStorage persistence
