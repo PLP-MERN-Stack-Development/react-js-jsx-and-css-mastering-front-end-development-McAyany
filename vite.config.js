@@ -6,6 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [
     react(),
-    tailwindcss(), // ✅ Tailwind v4 plugin
+    tailwindcss(),
   ],
+  base: '/react-js-jsx-and-css-mastering-front-end-development-McAyany/', // ✅ important for GitHub Pages
 })
