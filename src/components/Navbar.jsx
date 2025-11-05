@@ -7,6 +7,7 @@ export default function Navbar() {
       <div className="flex gap-4">
         <Link to="/" className="hover:underline">Home</Link>
         <Link to="/about" className="hover:underline">About</Link>
+        <Link to="/api" className="hover:text-yellow-400">API Data</Link>
       </div>
     </nav>
   );
