@@ -10,20 +10,7 @@ import { ThemeProvider } from "./context/ThemeContext";
 function App() {
   return (
     <ThemeProvider>
-
-      <div className="p-6">
-        <nav className="flex gap-4 mb-4">
-          <Link to="/" className="text-blue-600 hover:underline">
-            Home
-          </Link>
-          <Link to="/about" className="text-blue-600 hover:underline">
-            About
-          </Link>
-          <Link to="/tasks" className="text-blue-600 hover:underline">
-            Task Manager
-          </Link>
-        </nav>
-
+      <div className="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors">
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />

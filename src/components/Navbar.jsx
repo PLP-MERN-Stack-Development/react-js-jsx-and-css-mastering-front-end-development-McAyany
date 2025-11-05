@@ -12,6 +12,7 @@ const Navbar = () => {
         <Link to="/" className="hover:underline">Home</Link>
         <Link to="/about" className="hover:underline">About</Link>
         <Link to="/api" className="hover:text-yellow-400">API Data</Link>
+        <Link to="/tasks" className="hover:underline">Tasks Manager</Link>
       </div>
 
       <button
